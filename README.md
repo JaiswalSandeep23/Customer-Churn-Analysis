@@ -1,7 +1,3 @@
-# 🚀 Prompt to Generate an Outstanding GitHub README.md
-
-Create a **professional, modern, visually stunning, ATS-friendly, and recruiter-focused GitHub README.md** for my Machine Learning project titled:
-
 # 🤖 Customer Churn Prediction using Machine Learning
 
 The README should look similar to the top GitHub repositories with beautiful formatting, colorful badges, icons, emojis, tables, banners, GIF placeholders, screenshots, feature cards, collapsible sections, and clean Markdown.
